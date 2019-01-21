@@ -2,5 +2,3 @@ theme: jekyll-theme-slate
 encoding: utf-8
 title: Proyecto Wanda
 description: Página oficial de Wanda, un servicio de Augen SAS
-github:
-  is_project_page: false
