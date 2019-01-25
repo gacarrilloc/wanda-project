@@ -1,16 +1,22 @@
 # Problema
-Hemos identificado en el conteo de vehículos de forma manual 3 pasos principales:
+La planeación de la movilidad requiere de datos sobre el tránsito que actualmente se obtienen en gran medida por métodos manuales. En particular, hemos identificado en el conteo de vehículos de forma manual 4 pasos principales:
 1. Planeación 
 1. Toma de información
-1. Análisis
+1. Generación de datos
+1. Análisis de resultados
+
+Sin embargo, las fuentes de estos datos son cada vez de mayor volumen, más veloces y variables, y los métodos manuales presentan algunas dificultades.
 
 ## Aspectos por mejorar del método manual
-1. Complejidad de la logística: El método actual de conteo vehicular utiliza varias personas que son difíciles de gestionar, desde la planeación, lo administrativo, legal hasta el pago.
-2. Error humano: Las personas que hacen conteo introducen un margen de error.
-3. Tiempo: La toma y consolidación tardan tiempo.
-4. Costo: Múltiples personas para una intersección es costoso.
 
-Lo anterior concluye en un problema de calidad
+| No. | Problema | Detalle |
+| --- | --- | --- |
+| 1. | **Complejidad de la logística** | El método manual de conteo vehicular requiere de muchas personas, introduciendo una gran variabilidad que se hace difícil de gestionar, desde la planeación del conteo, pasando por lo administrativo, lo legal y hasta el pago. |
+| 2. | **Error humano** | El conteo manual, realizado viendo videos o directamente en campo, introduce un margen de error por factores como la distracción, el cansancio, las motivaciones personales, etc. |
+| 3. | **Tiempo** | Los pasos manuales producen que la toma y consolidación de información tarde un tiempo sustancial. |
+| 4. | **Costo** | El número de personas y pasos involucrados, repercuten en el costo de la obtención de información. |
+
+Lo anterior concluye en un problema de calidad, pero por fortuna tenemos una propuesta para que sea subsanado con tecnología e innovación.
 
 # Wanda como solución
 Es un servicio de conteo vehicular automatizado  que usa inteligencia artificial para aumentar la calidad del conteo y facilitar la logística en los puntos de toma de información.
@@ -18,31 +24,36 @@ Es un servicio de conteo vehicular automatizado  que usa inteligencia artificial
 ## Proceso
 ![proceso](proceso.svg)
 
-### Planeación: AugenCore es un sistema que integra el proceso de punta a punta, desde la planeación y la toma hasta la entrega de resultados al cliente. (En desarrollo)
+### Planeación: 
+AugenCore es un sistema que integra el proceso de punta a punta, desde la planeación y la toma de datos, hasta la entrega de resultados al cliente.
 
 ![augenCore](augenCore.svg)
 
-### Captura: 
-50 horas continuas de video
-Almacenamiento eficiente
-Autonomía
-Montaje robusto
-Confiabilidad
+### Captura:
+Los videos capturados en campo son la fuente para que realicemos el procesamiento de los mismos y de manera automatizada produzcamos los resultados. Innovamos en la captura con algunos atributos de calidad:
+
+* 50 horas continuas de video
+* Almacenamiento eficiente
+* Autonomía
+* Montaje robusto
+* Confiabilidad
 
 ### Procesamiento:
+El éxito de Wanda está en su capacidad para procesar videos de tránsito y producir resultados de la calidad requerida (>= 90% de precisión), de manera sostenible y escalable, esto es, desde el minuto 1 de video y por toda su duración, y para tantos videos como se requiera realizar su procesamiento.
 
-Detección y conteo de los tipos de vehículos:
-Autos
-Buses
-Camiones
-Motos (En pruebas)
-Personas (No simultaneo)
-Bicicletas (En construcción)
+Actualmente Wanda realiza detección y conteo de los siguientes tipos de vehículos:
+* Autos
+* Buses
+* Camiones
+* Motos (En pruebas)
+* Personas (No simultaneo)
+* Bicicletas (En construcción)
 
 ### Consolidación:
-- Conteos por tiempos parciales
-- Verificación de calidad
-- Entrega de resultados personalizados (Formato y Contenido)
+La consolidación de datos es la etapa final del proceso, pero además de producir la información esperada, tiene características que destacan su flexibilidad:
+* Conteos por tiempos parciales
+* Verificación de calidad
+* Entrega de resultados personalizados (Formato y Contenido)
 
 # Camino Recorrido
 ## Inicio
@@ -102,7 +113,7 @@ Augen es una empresa que busca innovar en la generación de conocimiento a parti
 ![salida](salida.svg)
 ![salida2](salida2.svg)
 
-# Planes o Servcios
+# Planes o Servicios
 Aplicación de planeación
 Toma de videos
 Procesamiento en la nube de videos
