@@ -11,10 +11,10 @@ Sin embargo, las fuentes de estos datos son cada vez de mayor volumen, más velo
 
 | No. | Img | Problema | Detalle |
 | --- | --- |--- | --- |
-| 1. | ![logistica](./imagenes/overwhelmed.png) | **Complejidad de la logística** | El método manual de conteo vehicular requiere de muchas personas, introduciendo una gran variabilidad que se hace difícil de gestionar, desde la planeación del conteo, pasando por lo administrativo, lo legal y hasta el pago. |
-| 2. | | **Error humano** | El conteo manual, realizado viendo videos o directamente en campo, introduce un margen de error por factores como la distracción, el cansancio, las motivaciones personales, etc. |
-| 3. | | **Tiempo** | Los pasos manuales producen que la toma y consolidación de información tarde un tiempo sustancial. |
-| 4. | | **Costo** | El número de personas y pasos involucrados, repercuten en el costo de la obtención de información. |
+| 1. | <img src="./imagenes/overwhelmed.png" alt="logistica" width="500"/> | **Complejidad de la logística** | El método manual de conteo vehicular requiere de muchas personas, introduciendo una gran variabilidad que se hace difícil de gestionar, desde la planeación del conteo, pasando por lo administrativo, lo legal y hasta el pago. |
+| 2. | <img src="./imagenes/persona_cansada_calle.jpg" alt="error" width="500"/> | **Error humano** | El conteo manual, realizado viendo videos o directamente en campo, introduce un margen de error por factores como la distracción, el cansancio, las motivaciones personales, etc. |
+| 3. | <img src="./imagenes/tortuga.jpg" alt="tiempo" width="500"/> | **Tiempo** | Los pasos manuales producen que la toma y consolidación de información tarde un tiempo sustancial. |
+| 4. | <img src="./imagenes/costo.jpg" alt="costo" width="500"/> | **Costo** | El número de personas y pasos involucrados, repercuten en el costo de la obtención de información. |
 
 Lo anterior concluye en un problema de calidad, pero por fortuna tenemos una propuesta para que sea subsanado con tecnología e innovación.
 
