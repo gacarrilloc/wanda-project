@@ -105,7 +105,8 @@ Augen es una empresa que busca innovar en la generación de conocimiento a parti
 
 
 # Cifras de uso
-“Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?”
+Wanda ha sido utilizado en paralelo con conteos manuales de tránsito, como estrategia de validación de su calidad, en más de 200 horas de video, en tránsito de ciudad, varias franjas horarias.
+
 # Wanda funcionando
 
 ![augenCore](augenCore.svg)
@@ -114,10 +115,8 @@ Augen es una empresa que busca innovar en la generación de conocimiento a parti
 ![salida2](salida2.svg)
 
 # Planes o Servicios
-Aplicación de planeación
-Toma de videos
-Procesamiento en la nube de videos
-Análisis de información
-
-# Características especiales de Wanda
-“Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?”
+| Servicio | Descripción |
+| --- | --- |
+| *AugenCore* | Lleve la logística de sus capturas de datos de manera organizada y centralizada |
+| *Raptor* | Desea dejar en nuestras manos la logística de la captura de video?. Le ofrecemos el servicio integral de captura de video y procesamiento para entregar sus resultados |
+| *Wanda* | Realice el procesamiento de sus videos de manera automática, y obtenga los resultados de sus conteos utilizando la tecnología que le dará mayor precisión, escalabilidad y eficiencia |
